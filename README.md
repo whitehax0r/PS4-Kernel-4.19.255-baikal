@@ -14,7 +14,7 @@ make -j7 bzImage
 
 Tested on latest ArchLinux.
 
-It could work with Aeolia and Belize soutbridges consoles. Try it first and let me know.
+It could work with Aeolia and Belize southbridges consoles. Try it first and let me know.
 
 Linux kernel
 ============
