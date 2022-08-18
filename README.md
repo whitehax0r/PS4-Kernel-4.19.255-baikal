@@ -5,8 +5,11 @@ Vanilla LTS Kernel 4.19.255 (2022-08-11) with PS4patches and Baikal patches with
 How to compile this kernel?
 
 git clone https://github.com/whitehax0r/PS4-Kernel-4.19.255-baikal.git
+
 cd PS4-Kernel-4.19.255-baikal
+
 mv config .config
+
 make -j7 bzImage
 
 Tested on latest ArchLinux.
